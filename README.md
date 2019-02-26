@@ -1,4 +1,5 @@
 # vueDemo2
+带有登录注册功能的写评论、显示评论列表、查看评论详情的APP
 
 ## Project setup
 ```
@@ -27,3 +28,5 @@ yarn run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
